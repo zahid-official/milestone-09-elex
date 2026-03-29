@@ -1,5 +1,5 @@
 
-# Elex
+# Elex - Vocabulary Learning Application
 
 Welcome to Elex, your fun and interactive language learning companion! Whether you're just starting out or looking to expand your skills, Elex is designed to make language learning exciting and effective.
 
@@ -37,7 +37,7 @@ Gadgetix is powered by the latest web technologies to deliver a seamless, dynami
 ---
 
 ## 🔗 Live Demo:
-**Live Link:** [**https://elex.surge.sh**](#)
+**Live Link:** [**elex-official.netlify.app/**](#)
 
 ---
 
