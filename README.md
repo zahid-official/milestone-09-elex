@@ -2,13 +2,12 @@
 
 <img src="https://elex-official.netlify.app/assets/logo.png" alt="Elex Logo" width="50" />
 
-# Elex — Japanese Vocabulary Learning Platform
+# Elex - Japanese Vocabulary Learning Platform
 
 A modern, interactive web application for mastering Japanese vocabulary through structured lessons, pronunciation practice, embedded video tutorials, and guided learning paths.
 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-elex--official.netlify.app-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://elex-official.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahid-official/milestone-09-elex)
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -33,68 +32,89 @@ A modern, interactive web application for mastering Japanese vocabulary through 
 
 ### 🎓 Learning Experience
 
-| Feature                          | Description                                                                                                  |
-| :------------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| **Structured Lesson Flow**       | Browse categorized lessons and progress through vocabulary practice via a guided route system                |
-| **Interactive Vocabulary Cards** | Explore word cards displaying pronunciation, meaning, part of speech, difficulty level, and contextual usage |
-| **Pronunciation Engine**         | Hear Japanese words spoken aloud using the browser's built-in Web Speech Synthesis API                       |
-| **Video Tutorials**              | Reinforce learning through embedded video content directly within the platform                               |
+<table align="center">
+<thead>
+<tr><th align="left">Feature</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td><b>Structured Lesson Flow</b></td><td>Browse categorized lessons and progress through vocabulary practice via a guided route system</td></tr>
+<tr><td><b>Interactive Vocabulary Cards</b></td><td>Explore word cards displaying pronunciation, meaning, part of speech, difficulty level, and contextual usage</td></tr>
+<tr><td><b>Pronunciation Engine</b></td><td>Hear Japanese words spoken aloud using the browser's built-in Web Speech Synthesis API</td></tr>
+<tr><td><b>Video Tutorials</b></td><td>Reinforce learning through embedded video content directly within the platform</td></tr>
+</tbody>
+</table>
 
 ### 🔐 Authentication & Security
 
-| Feature                | Description                                                                                  |
-| :--------------------- | :------------------------------------------------------------------------------------------- |
-| **Multi-Method Auth**  | Register, sign in, sign out, and reset passwords — plus Google OAuth via Firebase            |
-| **Protected Routes**   | Lesson details, tutorials, and profile pages are secured behind authenticated private routes |
-| **Profile Management** | Registered users can view and update their account information within the app                |
+<table align="center">
+<thead>
+<tr><th align="left">Feature</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td><b>Multi-Method Auth</b></td><td>Register, sign in, sign out, and reset passwords — plus Google OAuth via Firebase</td></tr>
+<tr><td><b>Protected Routes</b></td><td>Lesson details, tutorials, and profile pages are secured behind authenticated private routes</td></tr>
+<tr><td><b>Profile Management</b></td><td>Registered users can view and update their account information within the app</td></tr>
+</tbody>
+</table>
 
 ### 🎨 User Interface
 
-| Feature                 | Description                                                           |
-| :---------------------- | :-------------------------------------------------------------------- |
-| **Responsive Design**   | Fully optimized for mobile, tablet, and desktop viewports             |
-| **Scroll Animations**   | Smooth AOS-powered animations triggered on scroll for a polished feel |
-| **Interactive Sliders** | Swiper-based carousels for dynamic content presentation               |
-| **Dynamic Page Titles** | Each page updates the browser tab title via `react-helmet-async`      |
-| **Toast Notifications** | User-friendly feedback through `react-toastify` alerts                |
+<table align="center">
+<thead>
+<tr><th align="left">Feature</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td><b>Responsive Design</b></td><td>Fully optimized for mobile, tablet, and desktop viewports</td></tr>
+<tr><td><b>Scroll Animations</b></td><td>Smooth AOS-powered animations triggered on scroll for a polished feel</td></tr>
+<tr><td><b>Interactive Sliders</b></td><td>Swiper-based carousels for dynamic content presentation</td></tr>
+<tr><td><b>Dynamic Page Titles</b></td><td>Each page updates the browser tab title via <code>react-helmet-async</code></td></tr>
+<tr><td><b>Toast Notifications</b></td><td>User-friendly feedback through <code>react-toastify</code> alerts</td></tr>
+</tbody>
+</table>
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-| Technology             |  Version   | Purpose                                     |
-| :--------------------- | :--------: | :------------------------------------------ |
-| **React**              | `^18.3.1`  | Component-based UI development              |
-| **JavaScript**         |   `ES6+`   | Application logic and interactivity         |
-| **Vite**               | `^5.4.10`  | Lightning-fast dev server and build tooling |
-| **Firebase**           | `^11.1.0`  | Authentication and user management          |
-| **React Router DOM**   | `^6.28.0`  | Declarative client-side routing             |
-| **Tailwind CSS**       | `^3.4.15`  | Utility-first CSS framework                 |
-| **DaisyUI**            | `^4.12.14` | Tailwind-based UI component library         |
-| **React Toastify**     | `^11.0.2`  | Toast notification system                   |
-| **React Helmet Async** |     —      | Dynamic document head management            |
-| **Swiper**             | `^11.2.1`  | Touch-enabled slider and carousel           |
-| **AOS**                |  `^2.3.4`  | Animate On Scroll library                   |
-| **React Icons**        |  `^5.3.0`  | Popular icon sets as React components       |
-| **React CountUp**      |  `^6.5.3`  | Animated number counting                    |
-| **Animate.css**        |  `^4.1.1`  | Pre-built CSS animations                    |
+<table align="center">
+<thead>
+<tr><th align="left">Technology</th><th align="center">Version</th><th align="left">Purpose</th></tr>
+</thead>
+<tbody>
+<tr><td><b>React</b></td><td align="center"><code>^18.3.1</code></td><td>Component-based UI development</td></tr>
+<tr><td><b>JavaScript</b></td><td align="center"><code>ES6+</code></td><td>Application logic and interactivity</td></tr>
+<tr><td><b>Vite</b></td><td align="center"><code>^5.4.10</code></td><td>Lightning-fast dev server and build tooling</td></tr>
+<tr><td><b>Firebase</b></td><td align="center"><code>^11.1.0</code></td><td>Authentication and user management</td></tr>
+<tr><td><b>React Router DOM</b></td><td align="center"><code>^6.28.0</code></td><td>Declarative client-side routing</td></tr>
+<tr><td><b>Tailwind CSS</b></td><td align="center"><code>^3.4.15</code></td><td>Utility-first CSS framework</td></tr>
+<tr><td><b>DaisyUI</b></td><td align="center"><code>^4.12.14</code></td><td>Tailwind-based UI component library</td></tr>
+<tr><td><b>React Toastify</b></td><td align="center"><code>^11.0.2</code></td><td>Toast notification system</td></tr>
+<tr><td><b>React Helmet Async</b></td><td align="center">—</td><td>Dynamic document head management</td></tr>
+<tr><td><b>Swiper</b></td><td align="center"><code>^11.2.1</code></td><td>Touch-enabled slider and carousel</td></tr>
+<tr><td><b>AOS</b></td><td align="center"><code>^2.3.4</code></td><td>Animate On Scroll library</td></tr>
+<tr><td><b>React Icons</b></td><td align="center"><code>^5.3.0</code></td><td>Popular icon sets as React components</td></tr>
+<tr><td><b>React CountUp</b></td><td align="center"><code>^6.5.3</code></td><td>Animated number counting</td></tr>
+<tr><td><b>Animate.css</b></td><td align="center"><code>^4.1.1</code></td><td>Pre-built CSS animations</td></tr>
+</tbody>
+</table>
 
 <br/>
 
 ## 🏗️ Architecture
 
-```
+<div align="center">
+<pre>
 ┌─────────────────────────────────────────────────────────────┐
 │                        Browser                              │
 ├─────────────────────────────────────────────────────────────┤
 │  React App (Vite)                                           │
 │  ┌───────────┐  ┌──────────────┐  ┌──────────────────────┐  │
-│  │  Layout    │  │  React       │  │  Auth Provider       │  │
-│  │  (Navbar + │◄─┤  Router      │  │  (Firebase Context)  │  │
-│  │   Footer)  │  │  (Public +   │  │                      │  │
+│  │  Layout   │  │  React       │  │  Auth Provider       │  │
+│  │  (Navbar+ │◄─┤  Router      │  │  (Firebase Context)  │  │
+│  │   Footer) │  │  (Public +   │  │                      │  │
 │  │           │  │   Private)   │  │  • Login / Register  │  │
 │  └───────────┘  └──────┬───────┘  │  • Google OAuth      │  │
-│                        │          │  • Password Reset     │  │
+│                        │          │  • Password Reset    │  │
 │               ┌────────▼────────┐ └──────────────────────┘  │
 │               │     Pages       │                           │
 │               │  Home │ Learn   │                           │
@@ -110,9 +130,8 @@ A modern, interactive web application for mastering Japanese vocabulary through 
 ├─────────────────────────────────────────────────────────────┤
 │  Static Data: categories.json · words.json                  │
 └─────────────────────────────────────────────────────────────┘
-```
-
-<br/>
+</pre>
+</div>
 
 ## 📂 Project Structure
 
@@ -149,12 +168,17 @@ milestone-09/
 
 ### Prerequisites
 
-| Requirement          | Details                              |
-| :------------------- | :----------------------------------- |
-| **Node.js**          | v18 or higher recommended            |
-| **npm**              | Comes bundled with Node.js           |
-| **Firebase Project** | Required for authentication features |
-| **Modern Browser**   | Chrome, Firefox, Safari, or Edge     |
+<table align="center">
+<thead>
+<tr><th align="left">Requirement</th><th align="left">Details</th></tr>
+</thead>
+<tbody>
+<tr><td><b>Node.js</b></td><td>v18 or higher recommended</td></tr>
+<tr><td><b>npm</b></td><td>Comes bundled with Node.js</td></tr>
+<tr><td><b>Firebase Project</b></td><td>Required for authentication features</td></tr>
+<tr><td><b>Modern Browser</b></td><td>Chrome, Firefox, Safari, or Edge</td></tr>
+</tbody>
+</table>
 
 ### Installation
 
@@ -197,21 +221,27 @@ VITE_appId=your_app_id
 
 ## 📜 Available Scripts
 
-| Command           | Description                                 |
-| :---------------- | :------------------------------------------ |
-| `npm run dev`     | Start the Vite development server with HMR  |
-| `npm run build`   | Create an optimized production build        |
-| `npm run preview` | Preview the production build locally        |
-| `npm run lint`    | Run ESLint to check for code quality issues |
+<table align="center">
+<thead>
+<tr><th align="left">Command</th><th align="left">Description</th></tr>
+</thead>
+<tbody>
+<tr><td><code>npm run dev</code></td><td>Start the Vite development server with HMR</td></tr>
+<tr><td><code>npm run build</code></td><td>Create an optimized production build</td></tr>
+<tr><td><code>npm run preview</code></td><td>Preview the production build locally</td></tr>
+<tr><td><code>npm run lint</code></td><td>Run ESLint to check for code quality issues</td></tr>
+</tbody>
+</table>
 
 <br/>
 
 ## ⚙️ How It Works
 
-```
+<div align="center">
+<pre>
 User lands on Home ──► Browses Lesson Categories ──► Selects a Lesson
                                                           │
-                              ┌────────────────────────────┘
+                              ┌───────────────────────────┘
                               ▼
                     Route requires auth?
                      ┌──── Yes ────┐
@@ -228,8 +258,9 @@ User lands on Home ──► Browses Lesson Categories ──► Selects a Lesso
                      │             │
                      ▼             ▼
                 Return to ────► Watch Tutorials
-                Lesson           & Manage Profile
-```
+                Lesson           &amp; Manage Profile
+</pre>
+</div>
 
 1. **Landing** — Users explore the platform overview, features, and success metrics on the home page.
 2. **Category Browsing** — Lesson categories are rendered dynamically from `categories.json`.
