@@ -9,8 +9,6 @@ A modern, interactive web application for mastering Japanese vocabulary through 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-elex--official.netlify.app-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://elex-official.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahid-official/milestone-09-elex)
 
-<br/>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -20,22 +18,6 @@ A modern, interactive web application for mastering Japanese vocabulary through 
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" alt="DaisyUI" />
 
 </div>
-
-<br/>
-
-## 📖 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Environment Variables](#-environment-variables)
-- [Available Scripts](#-available-scripts)
-- [How It Works](#-how-it-works)
-- [Contributing](#-contributing)
-- [Author](#-author)
 
 <br/>
 
