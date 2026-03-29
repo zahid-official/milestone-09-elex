@@ -270,7 +270,7 @@ User lands on Home ──► Browses Lesson Categories ──► Selects a Lesso
 
 <br/>
 
-## 👤 Author
+## 🌟 Author
 
 <div align="center">
   <a href="https://github.com/zahid-official">
@@ -284,7 +284,7 @@ User lands on Home ──► Browses Lesson Categories ──► Selects a Lesso
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahid-web)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahid.official8@gmail.com)
 
-  <p>Building polished digital experiences with passion and purposeful design</p>
+  <p>Creating impactful digital experiences with passion and purposeful design</p>
 </div>
 
 <br/>
@@ -308,4 +308,4 @@ git push origin feature/your-feature-name
 # 5. Open a Pull Request against the main branch
 ```
 
-Please ensure your code follows the existing project conventions and passes linting before submitting.
+<p align="center"><b>Elex</b><i> - Where every lesson brings your language goals closer with confidence.</i></p>
